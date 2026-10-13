@@ -1,0 +1,3 @@
+temp/
+*.tipodoprograma (nesse caso, substitua "tipodoprograma" pelo tipo de arquivo que você deseja ignorar, 
+como .exe, .log, .tmp, etc.)
